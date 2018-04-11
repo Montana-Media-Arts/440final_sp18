@@ -22,4 +22,4 @@ Projector/Screen: have own projector
 
 Stage:
 
-Other Tech Needs:
+Other Tech Needs: extension cord?

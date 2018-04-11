@@ -3,22 +3,22 @@
 
 ## Basic Info
 
-Title:
+Title:interactive projection mapping
 
-Length:
+Length: 2-3 minutes
 
 
 ## Description
-
+projection mapping
 
 
 ## Tech Info
 
-Lighting:
+Lighting:no additional lights other than my projector
 
-Sound:
+Sound:yes
 
-Projector/Screen:
+Projector/Screen: have own projector
 
 Stage:
 

@@ -3,9 +3,9 @@
 
 ## Basic Info
 
-Title:
+Title: Live Mario
 
-Length:
+Length: ~5min
 
 
 ## Description
@@ -14,12 +14,12 @@ Length:
 
 ## Tech Info
 
-Lighting:
+Lighting: ambient light in the room. No spotlight on the screen please (too much light will make the projection hard for the camera to read)
 
-Sound:
+Sound: Stero output via 3mm jack. I don't think I'll need a microphone.
 
-Projector/Screen:
+Projector/Screen: I can use the provided screen, but I need the base of the projection to extend to the floor and the top to extend about 2ft above head height (~8ft)
 
-Stage:
+Stage: One actor will exist on stage, jumping around in front of the screen. I need a clear stage area and will be setting up my webcam on a tripod about 4ft off the ground somewhere on stage
 
 Other Tech Needs:

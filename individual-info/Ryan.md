@@ -20,7 +20,7 @@ Lighting: Podium & Podium top light
 
 Sound: Microphone for voice amplification. (possible computer sounds for background music, but unlikely)
 
-Output Only
+(Output Only)
 
 Projector/Screen: Computer projection upon screen (front or back)
 

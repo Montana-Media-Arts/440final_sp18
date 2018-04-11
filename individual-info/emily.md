@@ -3,9 +3,9 @@
 
 ## Basic Info
 
-Title:
+Title: Spider Sound (part 2?)
 
-Length:
+Length: 5 minutes?
 
 
 ## Description
@@ -14,12 +14,12 @@ Length:
 
 ## Tech Info
 
-Lighting:
+Lighting: I'm planning on using a mostly dark room again, probably with very minimal/low lighting so that I'm visible to the audience and any cameras running, but not the main focus.
 
-Sound:
+Sound: Whatever the standard setup is should work.
 
-Projector/Screen:
+Projector/Screen: no
 
-Stage:
+Stage: yes
 
 Other Tech Needs:

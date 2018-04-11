@@ -3,23 +3,24 @@
 
 ## Basic Info
 
-Title:
+Title: Kinecting Instruments
 
-Length:
+Length: 3 - 5 Minutes
 
 
 ## Description
 
+Kinecting Instruments is an artwork that explores the relationship our bodies and the world of sound around us. The actor's body becomes the instrument. The movements of their limbs produces music. The piece uses an Xbox 360 Kinect to track the skeletal points of an actors body. The body moves and the system will react to the individual's movements and play tones back. 
 
 
 ## Tech Info
 
-Lighting:
+Lighting: No shadows of a preson figure behind the actor. 
 
-Sound:
+Sound: Yes
 
-Projector/Screen:
+Projector/Screen:Yes
 
-Stage:
+Stage: Yes
 
-Other Tech Needs:
+Other Tech Needs: Room for an Xbox Kinect

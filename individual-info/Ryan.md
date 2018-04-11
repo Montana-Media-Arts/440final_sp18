@@ -27,3 +27,5 @@ Projector/Screen: Computer projection upon screen (front or back)
 Stage: Podium & Some area for gestures
 
 Other Tech Needs: Camera mount to view book with camera connected to computer
+
+(I will attempt to supply)

@@ -15,6 +15,7 @@ projection mapping
 ## Tech Info
 
 Lighting: do not need any additional lights other than my projector.
+
 Sound: yes
 
 Projector/Screen: have own projector

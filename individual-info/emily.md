@@ -10,7 +10,7 @@ Length: 5 minutes?
 
 ## Description
 
-
+Spider Sound is an interactive performance piece that allows a performer/dancer to manipulate sound through body movement using a Kinect for motion tracking.
 
 ## Tech Info
 

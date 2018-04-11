@@ -9,7 +9,7 @@ Length: ~5min
 
 
 ## Description
-
+Live Mario explores notions of reality and fantasy by merging live character performance with a virtual video game. The game tracks the area directly in front of a projector screen and feeds that information back into the game. This allows flesh and blood entities to play the game as if they were a virtual character.
 
 
 ## Tech Info

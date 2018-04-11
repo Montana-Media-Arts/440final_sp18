@@ -3,7 +3,7 @@
 
 ## Basic Info
 
-Title: Kidnapped?! Married at 15? #notclickbait (almost died) (working title)
+Title: Kidnapped?! Married at 15? #notclickbait (almost died) (working title lol)
 
 Length: 5-10 minutes
 

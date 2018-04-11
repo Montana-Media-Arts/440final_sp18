@@ -10,7 +10,7 @@ Length: 5-10 minutes
 
 ## Description
 
-Education video with graphics about Sacagawea. 
+Educational performance with live motion tracking and with graphics, about Sacagawea. 
 
 ## Tech Info
 

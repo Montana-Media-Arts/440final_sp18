@@ -26,3 +26,4 @@ Stage: I think I'll use someone else to move in front of the webcam so I can foc
 So they will be on the stage.
 
 Other Tech Needs:
+Not sure yet

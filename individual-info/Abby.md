@@ -14,7 +14,7 @@
  
  ## Tech Info
  
--Lighting: I need lighting wherever I am but the stage doesn't really need to have light.  
+-Lighting: I need lighting wherever I am but the stage doesn't really need to have lighting.  
  
 -Sound: I need sound to come from my laptop.
  

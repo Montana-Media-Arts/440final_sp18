@@ -1,1 +1,1 @@
-# 440final_sp18
+# MART440 - Final Project Details

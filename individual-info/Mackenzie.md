@@ -3,7 +3,7 @@
 
 ## Basic Info
 
-Title:interactive projection mapping
+Title: Light Conductor
 
 Length: 2-3 minutes
 
@@ -14,12 +14,11 @@ projection mapping
 
 ## Tech Info
 
-Lighting:no additional lights other than my projector
-
-Sound:yes
+Lighting: do not need any additional lights other than my projector.
+Sound: yes
 
 Projector/Screen: have own projector
 
-Stage:
+Stage: I will be on stage behind the boxes that are being projected on. The audience will only be able to see my hands and the boxes. Everything else with be lost in the darkness.
 
 Other Tech Needs: extension cord?

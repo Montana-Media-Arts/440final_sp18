@@ -3,23 +3,23 @@
 
 ## Basic Info
 
-Title:
+Title: Kidnapped?! Married at 15? #notclickbait (almost died) (working title lol)
 
-Length:
+Length: 5-10 minutes
 
 
 ## Description
 
-
+Educational performance with live motion tracking and with graphics, about Sacagawea. 
 
 ## Tech Info
 
-Lighting:
+Lighting: Need only face lit
 
-Sound:
+Sound: Nothing, so far...
 
-Projector/Screen:
+Projector/Screen: 
 
-Stage:
+Stage: Just need a podium or something
 
-Other Tech Needs:
+Other Tech Needs: Sombody's computer to perform with. 

@@ -3,9 +3,9 @@
 
 ## Basic Info
 
-Title:
+Title: Dueling Buttons
 
-Length:
+Length: 1-2 minutes
 
 
 ## Description
@@ -14,12 +14,12 @@ Length:
 
 ## Tech Info
 
-Lighting:
+Lighting: Standard setup
 
-Sound:
+Sound: Standard setup
 
-Projector/Screen:
+Projector/Screen: Standard setup
 
-Stage:
+Stage: Standard setup
 
-Other Tech Needs:
+Other Tech Needs: Small table

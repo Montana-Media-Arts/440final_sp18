@@ -3,27 +3,26 @@
 
 ## Basic Info
 
-Title: Don't know yet
+Title: Mic Stuff
 
-Length: Don't know yet
+Length: 1 - 1.5 mins
 
 
 ## Description
 
-Using Max for Live and Ableton to track a color that will change the velocity and
-pitch of sounds in Ableton. I want to use my guitar but might just use virtual instruments
-depending on what works.
+Using Max for Live and Ableton with a patch called Peaks & Notes that sends a note
+for every peak. I've set three different thresholds for peaks that will trigger a note
+on three different instruments using an SM57 mic and my Focusrite interface.
 
 ## Tech Info
 
-Lighting: Dark enough that other light won't mess with color tracker
+Lighting: I'll just need a spotlight on me.
 
 Sound: Focusrite (2 x 1/4") to monitors
 
-Projector/Screen: Might not use projector for this. Just sound.
+Projector/Screen: I won't need a projector for this. Just sound.
 
-Stage: I think I'll use someone else to move in front of the webcam so I can focus on playing.
-So they will be on the stage.
+Stage: Just me with a spotlight.
 
 Other Tech Needs:
 Not sure yet

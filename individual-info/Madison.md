@@ -14,7 +14,7 @@ Live Mario explores notions of reality and fantasy by merging live character per
 
 ## Tech Info
 
-Lighting: ambient light in the room. No spotlight on the screen please (too much light will make the projection hard for the camera to read)
+Lighting: ambient light in the room. No spotlight on the screen please (too much light will make the projection hard for the camera to read). However, a spotlight when I am sitting off to the side would be great
 
 Sound: Stero output via 3mm jack. I don't think I'll need a microphone.
 
@@ -22,4 +22,4 @@ Projector/Screen: I can use the provided screen, but I need the base of the proj
 
 Stage: One actor will exist on stage, jumping around in front of the screen. I need a clear stage area and will be setting up my webcam on a tripod about 4ft off the ground somewhere on stage
 
-Other Tech Needs:
+Other Tech Needs: a chair

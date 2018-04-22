@@ -3,7 +3,7 @@
 
 ## Basic Info
 
-Title: Spider Sound (part 2?)
+Title: Spider Sound (Part 2)
 
 Length: 5 minutes?
 

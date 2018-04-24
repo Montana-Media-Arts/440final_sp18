@@ -3,14 +3,14 @@
 
 ## Basic Info
 
-Title: Untitled
+Title: The Singing Cube
 
 Length: 1-2 minutes
 
 
 ## Description
 
-
+An ornery cube faces technical difficulties.
 
 ## Tech Info
 
@@ -22,4 +22,4 @@ Projector/Screen: Standard setup
 
 Stage: Standard setup
 
-Other Tech Needs: Small table
+Other Tech Needs: N/A

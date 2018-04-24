@@ -3,14 +3,14 @@
 
 ## Basic Info
 
-Title: Fair Use
+Title: Plunderphilia
 
 Length: 3-4 Minutes?
 
 
 ## Description
 
-An interactive audio-visual projection mapping performance with a controller made of conductive proximity sensors.  
+An interactive audio-visual projection mapping performance with a controller made of conductive proximity sensors.
 
 ## Tech Info
 
@@ -22,4 +22,4 @@ Projector/Screen: Using my own surface as a screen, and a projector stand to ove
 
 Stage: I will be performing on a table, which will act as my instrument and the screen for the audience. Projection will not be audience-friendly, so I may need a cameraman to follow the performance.
 
-Other Tech Needs: Will
+Other Tech Needs: Might need a cameraman or woman to send my controller's visuals to the projection screen
